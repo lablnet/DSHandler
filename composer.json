@@ -1,0 +1,18 @@
+{
+    "name": "lablnet/dshandler",
+    "description": "PHP DataStructure.",
+    "keywords": ["php", "data","array","free","package","Lablnet"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Muhammad Umer Farooq",
+            "email":"mumerfarooqlablnet01@gmail.com",
+            "homepage": "https://lablnet.github.io/profile"
+        }
+    ],  
+    "autoload": {
+        "psr-4": {
+             "Lablnet\\": "src/"
+        }
+    }
+}
