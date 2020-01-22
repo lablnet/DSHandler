@@ -6,7 +6,7 @@
 2. Composer
 
 ## Installation
-Installing this package is very simple, first ensure you have the right PHP version and composer installed then in your terminal/(command prompt) run:  `composer require lablnet/dshandler`
+Installing this package is very simple, first ensure you have the right PHP version and composer installed then in your terminal/(command prompt) run:  `composer require lablnet/dshandler:dev-master`
 
 ## Feature
 
