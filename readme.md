@@ -1,4 +1,4 @@
-# PHP input class
+# PHP DataStructure Handler
 ##### This package can manipulate data structures.
 
 ## Requirement
